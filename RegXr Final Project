@@ -1,0 +1,47 @@
+RegExr
+
+First step was to put the 1953-08-13.txt edition into the RegExr
+
+Next step is to create an expression to show what information we would like to see
+
+In this case it is how many times Quebec and Ontario are mentioned in this edition of Equity
+
+I had a lot of trouble creating an expression to do this
+
+I know that there is a better way to create an expression in RegExr but I was unable to do it other than this way
+
+(Quebe)\w+ is the expression that I put into the machine to get the results
+
+I could not figure out a way to type in Quebec without it not showing up anything
+
+I tried all the different tips in the tutorial and from the the exercise but just could not figure it out
+
+using this code still got me the result I wanted as the only words that come up for that expression would be "Quebec"
+
+The result was that there was 20 matches of the word Quebec in that edition
+
+Next was to figure out how many times Ontario was mentioned 
+
+the expression for this was (Ontari)\w+
+
+Once again was unable to find out how to create the expression without leaving out the last letter
+
+The results were 31 matches of the word Ontario in the document
+
+I wanted to see if this was just the theme for this edition so I decided to test another edition on their results
+
+Using the same code for Quebec and using an edition from a year earlier (1952-08-14) I was able to find that there was 16 hits in this edition for Quebec
+
+Using the Ontario code I was able to only find 11 hits from this edition
+
+this was very different then the first year I looked at
+
+I will once again look at the year before (1951)
+
+The 1951-08-16 edition has 31 results for Quebec and 11 for Ontario
+
+Lastly I will look at the 1950-08-10 edition
+
+It had 8 matches for Quebec and only 5 matches for Ontario
+
+This is a total of 65 for Quebec and 58 for Ontario
