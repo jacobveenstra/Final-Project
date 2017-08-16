@@ -46,5 +46,23 @@ It had 8 matches for Quebec and only 5 matches for Ontario
 
 This is a total of 65 for Quebec and 58 for Ontario
 
+After this I decided to get the numbers from 1954-1959 so that I could get more information to draw off of 
+
+For the rest I will just state the numbers
+
+1954 Quebec: 18  Ontario: 6
+
+1955 Quebec: 24 Ontario: 11
+
+1956 Quebec: 20 Ontario: 16
+
+1957 Quebec: 23 Ontario:10
+
+1958 Quebec: 3 Ontario: 3
+
+1959 Quebec: 14 Ontario: 4
+
+Total Quebec:167 Ontario:98
+
 I got my information for how to work RegExr from https://zenodo.org/badge/latestdoi/94783933 (Dr. Grahams Workbook)
 
